@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Licenses><License><![CDATA[Cloud Connect=No
+Description=Copyright 2018 Veeam, Inc. All Rights Reserved. The Software Product is protected by copyright and other intellectual property laws and treaties. Veeam or its suppliers own the title, copyright, and other intellectual property rights in the Software Product. Veeam reserves all rights not expressly granted to you in EULA. The Software Product is licensed, not sold. Veeam grants to you a nonexclusive nontransferable license to use the Software Product, provided that you agree with EULA.
+Edition=Enterprise Plus
+Expiration date=01/02/2019
+Instances=1000
+License administrator e-mail=benchmark@veeam.com
+License type=Evaluation
+Licensee company=Veeam Software AG
+Licensee e-mail=rd@veeam.com
+Licensee first name=Private
+Licensee last name=Beta
+Monitoring=Yes
+Orchestration=
+Support expiration date=01/02/2019
+Signature=DB9F5D3CA90163ACCF39A37F873615918CB33E6B2CD6062D3178917D0F8C4398D77861EB2E0C1C4D91188D19835A24A851DF76A043E78100F09D4754DFEB207B537D971FF08CF19C17BA0A6B95BEEDBCB3C70D4B167D145A2BE1367F553EB24097882AA19DDF5CA3CBFF23253FD2D3A7F0B628768EA2BCA7C2A9D0A83FD02A81
+]]></License></Licenses>
